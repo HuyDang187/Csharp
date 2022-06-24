@@ -7,9 +7,10 @@ namespace lab05
     {
         static void Main(string[] args)
         {
-            CreateData();
-            UpdateData();
-            DeleteData();
+            //CreateData();
+            //UpdateData();
+            //DeleteData();
+            SortData();
             GetData();
             
         }
@@ -60,6 +61,22 @@ namespace lab05
             conn.Open();
             int dataCount = command.ExecuteNonQuery();
             Console.WriteLine("Da xoa {0} ban ghi thanh cong ", dataCount);
+            conn.Close();
+        }
+        public static void SortData()
+        {
+            ConnectionDb connectionDb = new ConnectionDb();
+            SqlConnection conn = connectionDb.GetConnection();
+            string query = "SELECT * FROM product ORDER BY id DESC";
+            SqlCommand command = new SqlCommand(query, conn);
+            conn.Open();
+            command.ExecuteNonQuery();
+            Console.WriteLine("thu tu sap xep :");
+            SqlDataReader read = command.ExecuteReader();//su dung ham EndexcuteReader de doc du lieu
+            while (read.Read())// su dung vong lap while va ham .Read() de duyet du lieu
+            {
+                Console.WriteLine("Product Name : " + read[1] + " " + "Desc : " + read[2] + " " + "Price : " + read[3]);
+            }
             conn.Close();
         }
     }
