@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
+C:\Users\Admin\OneDrive\Tài liệu\GitHub\Csharp\MyCsharp\Lab04\obj\Debug\netcoreapp3.1\Lab04.genruntimeconfig.cache

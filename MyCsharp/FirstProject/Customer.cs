@@ -11,7 +11,7 @@ namespace FirstProject
 
         public string GetFullName(string firstName , string lastName )
         {
-            return lastName +" "+ firstName ;
+            return lastName + " " + firstName ;
         }
     }
 }
